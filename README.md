@@ -3,6 +3,7 @@
 ## Mods
 
 - [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions/files)
+- [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn)
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)
 - [Transportables](https://www.curseforge.com/minecraft/mc-mods/grims-transportables/files)
 - [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets/files)
@@ -14,7 +15,6 @@
 
 ## Pending (Not sure if compatible?)
 
-- [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn) - 1.18.2
 - [Advancement Plaques](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric) - 1.18.2
 - [Advancement Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger/files) - 1.19 Snapshot
 - [AdventureZ](https://www.curseforge.com/minecraft/mc-mods/adventurez/files) - 1.18.2
